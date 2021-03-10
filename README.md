@@ -10,8 +10,6 @@
 
 here table of content
 
-## integrations
-
 ## Integrations
 
 | Frameworks | Package | Version |
