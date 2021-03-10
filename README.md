@@ -51,7 +51,7 @@ see [windicss/plugins](https://github.com/windicss)
 
 ### Community
 
- - a
+ - [Vite + Svelte + Routify + Windicss](https://github.com/reepolee/svelte-routify-windi-vite) by [@reepolee](https://github.com/reepolee)
  - b
  - c
 
