@@ -1,4 +1,4 @@
-[website]: https://windicss.netlify.app
+[website]: https://windicss.org/guide/
 <h1 align="center">
 <a href="https://github.com/windicss/windicss/wiki">
   <img src="https://windicss.netlify.app/assets/logo.svg" alt="Windi CSS Logo" height="120" width="120"/><br>
@@ -26,7 +26,6 @@ here table of content
 | Angular | Coming soon... | |
 
 ## Documentation 📖
-
 Check [the documentation website][website].
 
 
@@ -34,50 +33,42 @@ Check [the documentation website][website].
 see [windicss/plugins](https://github.com/windicss)
 
 ## Showcases
-
 - 🚧 [svelte-alto](https://github.com/alexanderniebuhr/svelte-alto) blog theme inspired by [Ghost's original](https://github.com/TryGhost/Alto)
-- b
-- c
 
 ## Examples
-### Vite
+> syntax: (windi css package + bundler + extras)
 
+### Vue
+#### Official
+- [vite-plugin-windicss + vite](https://github.com/windicss/vite-plugin-windicss/tree/main/examples/vue) by [@antfu](https://github.com/antfu)
+
+#### Community
+-
+
+### React
 #### Official
 
-- [Vite + Vue + Windi CSS](https://github.com/windicss/vite-plugin-windicss/tree/main/examples/vue) by [@antfu](https://github.com/antfu)
-- [Vite + React + Windi CSS](https://github.com/windicss/vite-plugin-windicss/tree/main/examples/react) by [@antfu](https://github.com/antfu)
-- c
+- [vite-plugin-windicss + vite](https://github.com/windicss/vite-plugin-windicss/tree/main/examples/react) by [@antfu](https://github.com/antfu)
 
-### Community
-
- - [Vite + Svelte + Routify + Windicss](https://github.com/reepolee/svelte-routify-windi-vite) by [@reepolee](https://github.com/reepolee)
- - b
- - c
+#### Community
+-
 
 ### Svelte
-
 #### Official
 
-- 🚧 [Sveasy + Svelte + Windi CSS](https://github.com/alexanderniebuhr/svelte-sveasy-windicss) by [@alexanderniebuhr](https://github.com/alexanderniebuhr)
-- [Snowpack + Svelte + Windi CSS](https://github.com/windicss/svelte-windicss-preprocess/tree/main/example/snowpack) by [@alexanderniebuhr](https://github.com/alexanderniebuhr)
-- [Webpack + Svelte + Windi CSS](https://github.com/windicss/webpack-windicss-plugin/tree/master/example/svelte) by [@loonpwn](https://github.com/loonpwn)
+- 🚧 [svelte-windicss-preprocess + sveasy](https://github.com/alexanderniebuhr/svelte-sveasy-windicss) by [@alexanderniebuhr](https://github.com/alexanderniebuhr)
+- (currently not stable)⚠️  [svelte-windicss-preprocess + snowpack ](https://github.com/windicss/svelte-windicss-preprocess/tree/main/example/snowpack) by [@alexanderniebuhr](https://github.com/alexanderniebuhr)
+- [webpack-windicss-plugin + webpack](https://github.com/windicss/webpack-windicss-plugin/tree/master/example/svelte) by [@loonpwn](https://github.com/loonpwn)
 
-### Community
+#### Community
+- [vite-plugin-windicss + vite + routify](https://github.com/reepolee/svelte-routify-windi-vite) by [@reepolee](https://github.com/reepolee)
 
- - a
- - b
- - c
-
-### Webpack
-
+### Other
 #### Official
 
-- [Next + Webpack + Windi CSS](https://github.com/windicss/webpack-windicss-plugin/tree/master/example/next) by [@loonpwn](https://github.com/loonpwn)
-- [Nuxt + Webpack + Windi CSS](https://github.com/windicss/webpack-windicss-plugin/tree/master/example/nuxt) by [@loonpwn](https://github.com/loonpwn)
-- c
+- [webpack-windicss-plugin + webpack + next](https://github.com/windicss/webpack-windicss-plugin/tree/master/example/next) by [@loonpwn](https://github.com/loonpwn)
+- [webpack-windicss-plugin + webpack + nuxt](https://github.com/windicss/webpack-windicss-plugin/tree/master/example/nuxt) by [@loonpwn](https://github.com/loonpwn)
 
-### Community
+#### Community
 
- - a
- - b
- - c
+-
