@@ -64,7 +64,7 @@ Check [the documentation website][website].
 - [Nuxt + Webpack](https://github.com/windicss/webpack-windicss-plugin/tree/master/example/nuxt) by [@loonpwn](https://github.com/loonpwn)
 
 ## Plugins
-see [windicss/plugins](https://github.com/windicss)
+see [windicss/plugins](https://github.com/windicss/plugins)
 
 ### Framework-agnostic Plugins
 
