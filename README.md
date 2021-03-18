@@ -79,4 +79,4 @@ see [windicss/plugins](https://github.com/windicss/plugins)
 - [svelte-windicss-preprocess](https://github.com/windicss/svelte-windicss-preprocess)
 
 ## Showcases
-- 🚧 [svelte-alto](https://github.com/alexanderniebuhr/svelte-alto) blog theme inspired by [Ghost's original](https://github.com/TryGhost/Alto)
+<!-- - 🚧 [svelte-alto](https://github.com/alexanderniebuhr/svelte-alto) blog theme inspired by [Ghost's original](https://github.com/TryGhost/Alto) -->
