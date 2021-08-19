@@ -12,9 +12,10 @@
 
 <!-- toc -->
 
+- [Table of content](#table-of-content)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
-- [Documentation 📖](#documentation-%F0%9F%93%96)
+- [Documentation 📖](#documentation-)
 - [Get Started](#get-started)
   - [Examples](#examples)
     - [Vue](#vue)
@@ -77,6 +78,8 @@ see [windicss/plugins](https://github.com/windicss/plugins)
 - [vue-windicss-preprocess](https://github.com/windicss/vue-windicss-preprocess)
 - [nuxt-windicss-module](https://github.com/windicss/nuxt-windicss-module)
 - [svelte-windicss-preprocess](https://github.com/windicss/svelte-windicss-preprocess)
+- [vite-plugin-styled-windicss](https://github.com/JiangWeixian/vite-plugin-styled-windicss)
+- [babel-plugin-styled-windicss](https://github.com/JiangWeixian/babel-plugin-styled-windicss)
 
 ## Showcases
 <!-- - 🚧 [svelte-alto](https://github.com/alexanderniebuhr/svelte-alto) blog theme inspired by [Ghost's original](https://github.com/TryGhost/Alto) -->
