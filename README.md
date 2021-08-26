@@ -23,6 +23,7 @@
     - [Svelte](#svelte)
     - [Next](#next)
     - [Nuxt](#nuxt)
+    - [October CMS](#october-cms)
 - [Plugins](#plugins)
   - [Framework-agnostic Plugins](#framework-agnostic-plugins)
     - [Integrations](#integrations)
@@ -63,6 +64,9 @@ Check [the documentation website][website].
 
 #### Nuxt
 - [Nuxt + Webpack](https://github.com/windicss/webpack-windicss-plugin/tree/master/example/nuxt) by [@loonpwn](https://github.com/loonpwn)
+
+#### October CMS
+- [October CMS + Vite](https://github.com/chkilel/vitewind-theme) by [@chkilel](https://github.com/chkilel)
 
 ## Plugins
 see [windicss/plugins](https://github.com/windicss/plugins)
